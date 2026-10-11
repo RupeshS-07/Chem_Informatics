@@ -1,0 +1,58 @@
+chembl_id,smiles,pred_pIC50_apop,pred_pIC50_sign,delta_score,dominant_mechanism
+CHEMBL307250,COc1cc(/C=C(\C#N)C(=O)O)ccc1O,4.545831,4.4152217,0.13060951,Balanced / Dual-Action
+CHEMBL309016,COc1cc(/C=C/[N+](=O)[O-])ccc1O,4.5323186,4.9278126,-0.39549398,Signaling Dominant
+CHEMBL477695,COc1cc(/C=C/C(=O)NC[C@@H](OC)c2ccc(O)cc2)ccc1O,4.3676553,4.8486056,-0.48095036,Signaling Dominant
+CHEMBL32749,COc1cc(/C=C/C(=O)O)ccc1O,4.635326,4.305327,0.32999897,Apoptosis Dominant
+CHEMBL270361,COc1cc(/C=C2\CC/C(=C\c3ccc(O)c(OC)c3)C2=O)ccc1O,4.93377,4.8966455,0.037124634,Balanced / Dual-Action
+CHEMBL128729,COc1cc(/C=C/C(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.671537,4.7530947,-0.08155775,Balanced / Dual-Action
+CHEMBL493001,COc1cc(/C=C/C(=O)/C=C/c2cc(OC)c(O)c(OC)c2)cc(OC)c1O,4.666275,4.670832,-0.0045571327,Balanced / Dual-Action
+CHEMBL140,COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.596677,4.9461145,-0.3494377,Signaling Dominant
+CHEMBL599997,CCCCCCCCOc1ccc(/C=C/C(O)=C/C(=O)/C=C/c2ccc(O)c(OC)c2)cc1OC,4.1099954,5.364919,-1.2549238,Signaling Dominant
+CHEMBL589364,CCCCCCCCCCCCCCCCOc1ccc(/C=C/C(O)=C/C(=O)/C=C/c2ccc(O)c(OC)c2)cc1OC,4.1099954,5.364919,-1.2549238,Signaling Dominant
+CHEMBL1491229,COc1cc(/C=C/C(=O)OCC(=O)Nc2cc(C)c(C)cc2[N+](=O)[O-])ccc1O,4.494256,5.2104273,-0.71617126,Signaling Dominant
+CHEMBL1514534,COc1cc(/C=C/C(=O)c2ccc([N+](=O)[O-])o2)ccc1O,4.5101385,5.128247,-0.6181083,Signaling Dominant
+CHEMBL1322375,COc1cc(/C=C2/CC/C(=C/c3ccc(O)c(OC)c3)C2=O)ccc1O,4.93377,4.8966455,0.037124634,Balanced / Dual-Action
+CHEMBL1504035,COc1ccc(/C=C/C(=O)c2ccc(C(=O)/C=C/c3ccc(OC)c(OC)c3)cc2)cc1OC,4.461482,5.6072264,-1.1457443,Signaling Dominant
+CHEMBL1800965,COc1cc(C=C(C(=O)/C=C/c2ccc(OC)c(OC)c2)C(=O)/C=C/c2ccc(OC)c(OC)c2)ccc1O,4.521042,4.4322405,0.088801384,Balanced / Dual-Action
+CHEMBL1800999,COc1cc(/C=C/C(=O)C(=Cc2cccc(OC)c2OC)C(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.7152147,4.868425,-0.15321016,Balanced / Dual-Action
+CHEMBL180239,COc1cc(/C=C/c2cc(/C=C/c3ccc(O)c(OC)c3)[nH]n2)ccc1O,4.609987,5.1440644,-0.53407764,Signaling Dominant
+CHEMBL179512,COc1cc(/C=C/C(O)=C/C(=O)/C=C/c2ccc(O)cc2)ccc1O,4.55702,4.722526,-0.16550589,Balanced / Dual-Action
+CHEMBL105350,O=C(/C=C/c1ccc(O)cc1)CC(=O)/C=C/c1ccc(O)cc1,4.611043,4.7025695,-0.09152651,Balanced / Dual-Action
+CHEMBL13883,COc1cc(C=O)ccc1O,4.6685905,4.7584453,-0.08985472,Balanced / Dual-Action
+CHEMBL3105498,COc1ccc(/C=C/C(=O)c2ccc(OC)c(O)c2)cc1O,4.5327153,5.694019,-1.1613035,Signaling Dominant
+CHEMBL495184,COc1ccc(/C=C/C(=O)/C=C/c2ccc(OC)c(O)c2)cc1O,4.578669,4.855551,-0.2768817,Balanced / Dual-Action
+CHEMBL128748,COc1ccc(/C=C/C(=O)/C=C(O)/C=C/c2ccc(OC)c(OC)c2)cc1OC,4.416497,4.791243,-0.37474585,Signaling Dominant
+CHEMBL3290439,COc1cc(/C=C/C(=O)CC(=O)c2ccc(O)c(OC)c2)ccc1O,4.691403,5.579799,-0.88839626,Signaling Dominant
+CHEMBL3290185,COc1cc(/C=C/C(=O)CC(=O)/C=C/c2cc(F)c(O)c(OC)c2)cc(F)c1O,4.5882998,5.617409,-1.0291095,Signaling Dominant
+CHEMBL2392187,COc1cc(/C=C/C(=O)CC(=O)/C=C/c2cc(CC=C(C)C)c(O)c(OC)c2)cc(CC=C(C)C)c1O,4.6064134,5.279903,-0.6734896,Signaling Dominant
+CHEMBL3763318,COc1cc(/C=C/C(O)=C/C(=O)/C=C/c2ccc(C)cc2)ccc1O,4.580597,4.8711724,-0.2905755,Balanced / Dual-Action
+CHEMBL3763944,COc1cc(/C=C/C(O)=C/C(=O)/C=C/c2ccc(OCc3ccccc3)cc2)ccc1O,4.5257773,5.387206,-0.86142874,Signaling Dominant
+CHEMBL103006,COc1ccc(/C=C/C(=O)CC(=O)/C=C/c2ccc(OC)cc2)cc1,4.5736413,5.0109572,-0.43731594,Signaling Dominant
+CHEMBL481245,COc1cc(/C=C/C(=O)OCCc2ccc(O)cc2)ccc1O,4.435602,4.995534,-0.55993176,Signaling Dominant
+CHEMBL3823553,COc1cc(/C=C/C(=O)OCCc2ccc(O)c(O)c2)ccc1O,4.460446,4.9998317,-0.5393858,Signaling Dominant
+CHEMBL3822800,COc1cc(CCOC(=O)/C=C/c2cc(OC)c(O)c(OC)c2)ccc1O,4.391972,5.0188456,-0.6268735,Signaling Dominant
+CHEMBL3823866,COc1cc(/C=C/C(=O)OCCc2ccc(O)c(OC)c2)ccc1O,4.4003267,4.9418826,-0.5415559,Signaling Dominant
+CHEMBL3823086,COc1cc(/C=C/C(=O)OCCc2ccc(N)cc2)ccc1O,4.412787,5.033945,-0.6211581,Signaling Dominant
+CHEMBL3824063,COc1cc(/C=C/C(=O)OCCCc2ccc(O)cc2)ccc1O,4.7043614,4.983698,-0.27933645,Balanced / Dual-Action
+CHEMBL3822697,COc1cc(/C=C/C(=O)Oc2ccc(O)cc2C(C)=O)ccc1O,4.639977,4.8975463,-0.2575693,Balanced / Dual-Action
+CHEMBL3822598,COc1cc(/C=C/C(=O)OCCc2ccc(OC)c(OC)c2)ccc1O,4.2758393,4.938995,-0.66315556,Signaling Dominant
+CHEMBL3823798,COc1cc(/C=C\C(=O)OCCc2ccc(OC)c(OC)c2)ccc1O,4.2758393,4.938995,-0.66315556,Signaling Dominant
+CHEMBL3822893,COc1cc(/C=C/C(=O)OCCCc2ccc(O)c(OC)c2)ccc1O,4.669086,4.9300466,-0.26096058,Balanced / Dual-Action
+CHEMBL3822560,COc1cc(CCCOC(=O)/C=C/c2cc(OC)c(O)c(OC)c2)ccc1O,4.792888,4.9678264,-0.1749382,Balanced / Dual-Action
+CHEMBL3822833,COc1cc(/C=C/COC(=O)/C=C/c2cc(OC)c(O)c(OC)c2)ccc1O,4.649253,4.835801,-0.18654823,Balanced / Dual-Action
+CHEMBL3823650,COc1cc(/C=C/C(=O)OCCc2ccc(O)c(OC)c2)ccc1N,4.394234,4.970748,-0.57651377,Signaling Dominant
+CHEMBL3823265,COc1cc(/C=C\C(=O)OCCc2ccc(O)c(OC)c2)ccc1N,4.394234,4.970748,-0.57651377,Signaling Dominant
+CHEMBL3823193,COc1cc(/C=C/C(=O)OCc2cc(OC)c(O)c(OC)c2)ccc1O,4.413072,4.9301987,-0.51712656,Signaling Dominant
+CHEMBL3823769,COc1cc(/C=C/COC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.641403,4.841048,-0.19964457,Balanced / Dual-Action
+CHEMBL3822722,COc1cc(/C=C/C(=O)OCCc2cc(OC)c(O)c(OC)c2)ccc1O,4.327374,5.036628,-0.7092538,Signaling Dominant
+CHEMBL3823321,COc1cc(/C=C/C(=O)OCCc2ccc(N)nc2)ccc1O,4.5429387,4.6819425,-0.13900375,Balanced / Dual-Action
+CHEMBL3824255,COc1cc(/C=C/C(=O)OCc2ccc(N)nc2)ccc1O,4.6020846,4.7811384,-0.17905378,Balanced / Dual-Action
+CHEMBL3892642,COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(CO)c2)ccc1O,4.637006,5.014858,-0.37785196,Signaling Dominant
+CHEMBL560131,COc1cc(/C=C/C(=O)/C=C/c2ccc(OC(C)=O)c(OC)c2)ccc1OC(C)=O,4.4409924,4.689866,-0.24887371,Balanced / Dual-Action
+CHEMBL1797794,COc1cc(/C=C/C(=O)/C(C)=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.475252,5.2871866,-0.8119345,Signaling Dominant
+CHEMBL3929895,COc1cc(/C=C/C(=O)/C(Cc2ccccc2)=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.4018593,5.508271,-1.1064119,Signaling Dominant
+CHEMBL193598,C/C=C/c1ccc(O)c(OC)c1,4.822103,5.1796613,-0.35755825,Signaling Dominant
+CHEMBL428441,COc1cc(C=C(C(=O)/C=C/c2ccc(O)c(OC)c2)C(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.6382656,4.4359546,0.20231104,Balanced / Dual-Action
+CHEMBL4442236,COc1cc(/C=C/C(=O)C(=Cc2ccncc2)C(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4.622197,4.9002533,-0.27805614,Balanced / Dual-Action
+CHEMBL262597,COc1ccc(C(=O)/C=C/c2ccc(OC)c(OC)c2)c(O)c1,4.4370546,5.2805634,-0.8435087,Signaling Dominant
+CHEMBL482608,COc1cc(/C=C/C(=O)CC(=O)CC(O)c2ccc(O)c(OC)c2)ccc1O,4.5620165,5.3266416,-0.7646251,Signaling Dominant
